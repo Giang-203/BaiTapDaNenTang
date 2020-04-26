@@ -1,6 +1,7 @@
-# iamrich
+# I am rich
 
 A new Flutter application.
+Shiny diamond on the screen.
 
 ## Getting Started
 
